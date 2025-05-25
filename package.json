@@ -1,0 +1,25 @@
+{
+  "name": "clone_tabnews",
+  "version": "1.0.0",
+  "description": "Implementação do tabnews.com.br durante o curso.dev",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^13.1.6",
+    "nvm": "^0.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrendonJoaoDEV/clone_tabnews.git"
+  },
+  "author": "Brendon João",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrendonJoaoDEV/clone_tabnews/issues"
+  },
+  "homepage": "https://github.com/BrendonJoaoDEV/clone_tabnews#readme"
+}
